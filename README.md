@@ -31,16 +31,16 @@ The framework utilizes various AWS services to achieve its goals:
 Provide instructions or scripts for deploying the Horizon Cloud Framework.
 
 ## Usage
-Describe how to use or interact with the deployed application.
+####
 
 ## Contributing
-Guidelines for contributing to the project.
+####
 
 ## License
-Specify the project's license.
+#####
 
 ## Contact
-Provide contact information for support or questions.
+kgarud30@gmail.com
 
 ---
 
